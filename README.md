@@ -39,3 +39,10 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Docs List
+
+|  Name  |  Path  | Description |
+|  ----  |  ----  |  ----       |
+| Why use AB-Testing  | why-use-our-product | A page describe our product's advantages. |
+| How to use Webpixel  | how-to-use-webpixel | A page describe how to connect webpixel to our product. |
